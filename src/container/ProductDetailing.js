@@ -39,7 +39,7 @@ console.log(product);
                 <div>...Loading</div>
             ):(
                 <div key={id} className='text-center'>
-                <h1>product Details</h1>
+                <h1>Product Details</h1>
                 <div class="container mr-5">
                 <div class="card" style={{ width: "20rem" }} >
                 <div class="card-body"  >
